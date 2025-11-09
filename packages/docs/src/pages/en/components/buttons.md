@@ -14,7 +14,7 @@ features:
   label: 'C: VBtn'
   report: true
   spec: https://m2.material.io/components/buttons
----
+---packages/docs/src/pages/en/components/all.mdwaht
 
 # Buttons
 
